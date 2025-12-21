@@ -4,7 +4,7 @@ Markdown Autocomplete brings opinionated, context-aware completions to the [Micr
 
 ## Demo
 
-![Demo GIF]](assets/demo.gif)
+![Demo GIF](assets/demo.gif)
 
 ## Feature Highlights
 - **Inline formatting shorthands** – type `**`, `~~`, `` ` ``, `[`, or `![` to expand to bold, strikethrough, inline code, links, and images with the cursor dropped at the right spot.
