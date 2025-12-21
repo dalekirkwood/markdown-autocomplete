@@ -2,6 +2,10 @@
 
 Markdown Autocomplete brings opinionated, context-aware completions to the [Micro](https://micro-editor.github.io/) terminal editor. It accelerates everyday Markdown authoring with inline formatting snippets, smart list continuation, optional code fences, and lightweight auto-pairing – all written in a single Lua file that Micro can load directly from your `~/.config/micro/plug` directory.
 
+## Demo
+
+![Demo GIF]](assets/demo.gif)
+
 ## Feature Highlights
 - **Inline formatting shorthands** – type `**`, `~~`, `` ` ``, `[`, or `![` to expand to bold, strikethrough, inline code, links, and images with the cursor dropped at the right spot.
 - **Code blocks & task lists** – typing ````` ``` ````` expands to a fenced block with a blank line ready for content, and `- [` becomes `- [ ] ` for checklists.
